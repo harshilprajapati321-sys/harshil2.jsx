@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "harshil",
+      "email": "harshil@gmial.com",
+      "password": "4383573",
+      "id": "iTUhQRHCj4Y"
+    },
+    {
+      "name": "jayesh",
+      "email": "jayesh@gmail.com",
+      "password": "3535419",
+      "id": "YJroU8jGGYY"
+    },
+    {
+      "name": "bipin",
+      "email": "bipin@gamil.com",
+      "password": "155456",
+      "id": "4p4ZjgrhGhY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
